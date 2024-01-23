@@ -16,17 +16,17 @@ ACLED Data and visualizations of the security events in and around Afrikan Parks
 
 
 ## Installation
-Python 3.11 -  https://www.python.org/downloads/
+Python 3.11 -  https://www.python.org/downloads/, 
 Anaconda -  https://www.anaconda.com/download/
-pip install pandas
-pip install numpy
-pip install geopandas
-pip install shapely
-pip install sklearn
-pip install matplotlib
-pip install seaborn
-pip install IPython
-pip install folium
+pip install pandas, 
+pip install numpy, 
+pip install geopandas, 
+pip install shapely, 
+pip install sklearn, 
+pip install matplotlib, 
+pip install seaborn, 
+pip install IPython, 
+pip install folium, 
 
 
 ## Usage
