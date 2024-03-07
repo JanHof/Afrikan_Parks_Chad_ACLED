@@ -6,7 +6,7 @@ ACLED Data and visualizations of the security events in and around Afrikan Parks
 
 ## Project Structure
 
-1. **Zakouma_vs_Chad.ipynb**: The Jupyter Notebook containing the code for data analysis, visualizations, and any other relevant processes.
+1. **Zakouma_vs_Chad.ipynb**: The Jupyter Notebook containing the code for data analysis, visualizations.
 
 2. **Maps**: This directory includes HTML files containing interactive maps generated during the analysis.
 
